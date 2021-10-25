@@ -15,3 +15,5 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+# Notes For Me
+finally started three.js for 3D and 2D web objects, finishing it in time will be good....
